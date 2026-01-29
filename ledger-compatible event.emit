@@ -1,0 +1,10 @@
+// Emit ledger-compatible event
+emit!(LedgerEntry {
+    transaction_type: "LOAN_REPAYMENT",
+    debit_account: "CASH",
+    credit_account: "LOAN_PAYABLE",
+    amount: repayment_amount,
+    memo: format!("Loan {} payment", loan_id),
+    timestamp: Clock::get()?.unix_timestamp,
+});
+
