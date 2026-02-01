@@ -1,3 +1,15 @@
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Governance](https://img.shields.io/badge/Governance-Dual--Founder-blue)
+![Compliance](https://img.shields.io/badge/Compliance-Audit--Ready-purple)
+![Protocol](https://img.shields.io/badge/Protocol-v1.0.0-orange)
+![Ledger](https://img.shields.io/badge/Ledger-Immutable-black)
+![Assets](https://img.shields.io/badge/Assets-Tracked-success)
+![Sponsorship](https://img.shields.io/badge/Fund-Sponsorship-purple)
+![Emergency](https://img.shields.io/badge/Fund-Emergency-critical)
+![Templates](https://img.shields.io/badge/Templates-Available-blue)
+![Docs](https://img.shields.io/badge/Documentation-Complete-green)
+![Security](https://img.shields.io/badge/Security-Policy_Aligned-red)
+![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 # Founder-Loan-Program
 
 
